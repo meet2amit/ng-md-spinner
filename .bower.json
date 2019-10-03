@@ -2,11 +2,11 @@
     "name": "ng-md-spinner",
     "homepage": "https://github.com/meet2amit/ng-md-spinner",
     "main": "./scripts/spinner.js",
-    "_release": "5bb13ed136",
+    "_release": "5c07b27",
     "_resolution": {
         "type": "branch",
         "branch": "master",
-        "commit": "5bb13ed136e49180ef22a763d35560a6879c0ed0"
+        "commit": "68cfe863095ba9123b468d63b0ebe3e20be1fa36"
     },
     "_source": "https://github.com/meet2amit/ng-md-spinner.git",
     "_target": "*",
